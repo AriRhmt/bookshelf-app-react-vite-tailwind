@@ -1,0 +1,1 @@
+// App entry point with useEffect and states
