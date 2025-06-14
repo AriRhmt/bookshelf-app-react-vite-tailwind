@@ -1,0 +1,1 @@
+// LocalStorage utils for books
