@@ -5,9 +5,11 @@
 "type": "module",
 "scripts": {
 "dev": "vite",
-"build": "tsc && vite build",
+"build": "npm run typecheck && npm run vitebuild",
 "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
-"preview": "vite preview"
+"preview": "vite preview",
+"typecheck": "tsc",
+"vitebuild": "vite build"
 },
 "dependencies": {
 "react": "^18.2.0",
