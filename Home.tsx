@@ -1,0 +1,1 @@
+// Home page that uses Layout and components

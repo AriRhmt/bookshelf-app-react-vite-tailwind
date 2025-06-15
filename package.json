@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "name": "bookshelf-app",
   "private": true,
@@ -29,3 +30,6 @@
     "vite": "^5.2.0"
   }
 }
+=======
+{ "name": "bookshelf-app", "scripts": { "dev": "vite", "build": "vite build", "preview": "vite preview" } }
+>>>>>>> 4bc74759baff56f9b25c8c59c291540a05c2a3b7
